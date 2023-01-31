@@ -4,7 +4,7 @@
 
 
 <main>
-
+<img src="" alt="">
     <div class="wrapper">
         <h1>Åpningstider</h1>
         <div class="container">
